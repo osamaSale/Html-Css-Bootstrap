@@ -411,6 +411,7 @@ var e = {
 								touchFollowAxis: 'true',
 								closeEffect: 'fade'
 						});
+						return lb
 				}
 		},
 		// END: GLightbox
